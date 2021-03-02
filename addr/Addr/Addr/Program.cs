@@ -7,11 +7,17 @@ using System.Threading.Tasks;
 namespace Addr
 {
      
-
-
+    class Adress
+    {
+        public static string Name;
+        public static string Phone;
+        public static string Address;
+    }
 
     class Program
     {
+      
+
 
         static void Main(string[] args)
         {
@@ -34,11 +40,11 @@ namespace Addr
                 case 0:
                     Information information = new Information();
                     information.Insert();
-                    string[,] arr = { { Information.Name, Information.Phone, Information.Address } };
+                    /*string[,] arr = { { Information.Name, Information.Phone, Information.Address } };
                     Console.Write("이름 입력:");
                     InformationFind informationFind = new InformationFind();
                     string FName = Console.ReadLine();
-                    informationFind.FindName();
+                    informationFind.FindName();*/
 
 
                     break;
