@@ -1,6 +1,7 @@
 # StudyCsharp21
 
 PKNU C#학습 리포지토리
+[Csharp 리포지토리](https://github.com/vustkdgus/StudyCsharp21)
 
 -------------------
 
