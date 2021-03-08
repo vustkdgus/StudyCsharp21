@@ -22,3 +22,5 @@ PKNU C#학습 리포지토리
 <img src="https://github.com/vustkdgus/StudyCsharp21/blob/main/chap99/photo/%EC%A3%BC%EC%86%8C%EC%9E%85%EB%A0%A5.png" width = "80%"> </img> <br>
 주소 전체출력 <br>
 <img src="https://github.com/vustkdgus/StudyCsharp21/blob/main/chap99/photo/%EC%A3%BC%EC%86%8C%EC%A0%84%EC%B2%B4%EC%B6%9C%EB%A0%A5.png" width = "80%"> </img>
+
+-------------------
