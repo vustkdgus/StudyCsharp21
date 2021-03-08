@@ -122,6 +122,7 @@ namespace UsingControlsApp
         /// </summary>
         private void DisplayTreeToList()
         {
+            ChangeFont();
             LsvDummy.Items.Clear();
             foreach (TreeNode node in TrvDummy.Nodes)
             {
@@ -138,6 +139,8 @@ namespace UsingControlsApp
                 DisplayTreeToList(item);
             }
         }
+
+
 
         #endregion
 
