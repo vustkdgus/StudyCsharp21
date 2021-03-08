@@ -30,7 +30,7 @@ namespace AddressBookApp
 
             return result;
         }
-
+         
         public void InputAddress()
         {
             Console.WriteLine("주소입력");
