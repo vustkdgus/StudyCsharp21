@@ -4,7 +4,7 @@
 <p align='center'>
    <br>
    <a href="https://github.com/vustkdgus/StudyCsharp21">
-    <img src="https://img.shields.io/badge/CSharp 리포지토리%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSharp 리포지토리 이동%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href=#WPF1>
     <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
@@ -52,4 +52,3 @@
 주소 전체출력 <br>
 <img src="https://github.com/vustkdgus/StudyCsharp21/blob/main/chap99/photo/%EC%A3%BC%EC%86%8C%EC%A0%84%EC%B2%B4%EC%B6%9C%EB%A0%A5.png" width = "80%"> </img>
 
--------------------
