@@ -12,9 +12,9 @@
 
 
 ## List
+ - [INNER, OUTER JOIN](#InnerOuterJoin)
  - [File Copy App](#FileCopyApp)
  - [Using Control App](#UsingControlApp)
- - [INNER, OUTER JOIN](#InnerOuterJoin)
  - [Address Book](#AddressBook)
 
 
@@ -23,6 +23,10 @@
 ## BASIC C#
 
 기본문법 학습
+
+## INNER, OUTER JOIN<a id = "InnerOuterJoin">
+
+![INNER,OUTER JOIN](https://user-images.githubusercontent.com/38821846/111731812-95e2e600-88b7-11eb-9d09-393451e85224.png)
 
 -------------------
 
@@ -34,9 +38,7 @@
 
 ![Using Control App](https://user-images.githubusercontent.com/38821846/111731637-3b498a00-88b7-11eb-864a-8e8a48e991c4.png)
 
-## INNER, OUTER JOIN<a id = "InnerOuterJoin">
 
-![INNER,OUTER JOIN](https://user-images.githubusercontent.com/38821846/111731812-95e2e600-88b7-11eb-9d09-393451e85224.png)
 
 ## Address Book<a id = "AddressBook">
 
