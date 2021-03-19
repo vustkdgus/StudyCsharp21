@@ -1,6 +1,29 @@
-# StudyCsharp21
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=StudyCsharp21%20&fontSize=50&animation=fadeIn&fontAlignY=38)
+<p align='center'><b> C# 학습 리포지토리 </b></p>
+<p align='center'>
+   <br>
+   <a href=#WinformBasic>
+    <img src="https://img.shields.io/badge/Windows Form App%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href=#WPF1>
+    <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
+<br>
+<br>
 
-PKNU C#학습 리포지토리
+
+## List
+### Winform Basic
+ - [Login App Template](#LoginAppTemplate)
+ - [RGB Color Scroller Template](#RGBColorScrollerTemplate)
+ - [Calculator](#Calculator)
+ - [도서대여 시스템](#도서대여시스템)
+ - [IoTSensor Monitoring](#IoTSensorMonitoring)
+### WPF  
+ - [DB Login](#DBLogin)
+
+
 
 [C# 리포지토리](https://github.com/vustkdgus/StudyCsharp21)
 
