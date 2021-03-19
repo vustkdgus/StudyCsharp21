@@ -3,8 +3,8 @@
 <p align='center'><b> C# 학습 리포지토리 </b></p>
 <p align='center'>
    <br>
-   <a href=#WinformBasic>
-    <img src="https://img.shields.io/badge/Windows Form App%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+   <a href="https://github.com/vustkdgus/StudyCsharp21">
+    <img src="https://img.shields.io/badge/C# 리포지토리 이동%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
   <a href=#WPF1>
     <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
@@ -20,9 +20,6 @@
  - [INNER, OUTER JOIN](#InnerOuterJoin)
  - [Address Book](#AddressBook)
 
-
-
-[C# 리포지토리](https://github.com/vustkdgus/StudyCsharp21)
 
 -------------------
 
