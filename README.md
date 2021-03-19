@@ -6,9 +6,6 @@
    <a href="https://github.com/vustkdgus/StudyCsharp21">
     <img src="https://img.shields.io/badge/CSharp 리포지토리 이동%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   </a>
-  <a href=#WPF1>
-    <img src="https://img.shields.io/badge/WPF%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
 </p>
 <br>
 <br>
