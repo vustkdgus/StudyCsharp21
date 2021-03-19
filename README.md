@@ -43,8 +43,6 @@
 
 ## Address Book<a id = "AddressBook">
 
-[Address Book소스](https://github.com/vustkdgus/StudyCsharp21/tree/main/chap99/AddressBookApp)
-
 메뉴 출력 <br>
 <img src="https://github.com/vustkdgus/StudyCsharp21/blob/main/chap99/photo/%EB%A9%94%EB%89%B4%EC%B6%9C%EB%A0%A5.png" width = "80%"> </img> <br>
 주소 입력 <br>
