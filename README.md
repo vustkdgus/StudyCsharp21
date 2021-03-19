@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=StudyCsharp21%20&fontSize=50&animation=fadeIn&fontAlignY=38&text-align=right)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=StudyCsharp21&fontAlign=70&rotate=13&fontAlignY=25)
+
 <p align='center'><b> C# 학습 리포지토리 </b></p>
 <p align='center'>
    <br>
